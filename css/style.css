@@ -4,6 +4,7 @@ body
 {
   font-family: 'Cabin', sans-serif;
   padding-top: 50px;
+  overflow-x: hidden;
 }
 
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a
@@ -20,7 +21,7 @@ body
 
 .home-slider
 {
-  overflow: hidden;
+/*  overflow: hidden;*/
 }
 
 .navbar-default
